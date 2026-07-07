@@ -2,13 +2,15 @@ import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
 import Exercise1 from './exercises/Exercise1';
 import Exercise1a from './exercises/Exercise1a';
+import Exercise2 from './exercises/Exercise2'
 function App() {
 
 
   return (
     <>
     {/* <Exercise1/> */}
-   <Exercise1a/>
+   {/* <Exercise1a/> */}
+   <Exercise2/>
     </>
   )
 }
