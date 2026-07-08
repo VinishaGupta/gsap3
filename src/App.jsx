@@ -6,6 +6,7 @@ import Exercise2 from './exercises/Exercise2'
 import Exercise3 from './exercises/Exercise3';
 import Exercise4 from './exercises/Exercise4';
 import Exercise5 from './exercises/Exercise5';
+import Exercise6 from './exercises/Exercise6';
 
 function App() {
 
@@ -17,7 +18,8 @@ function App() {
    {/* <Exercise2/> */}
    {/* <Exercise3/> */}
    {/* <Exercise4/> */}
-   <Exercise5/>
+   {/* <Exercise5/> */}
+   <Exercise6/>
     </>
   )
 }
